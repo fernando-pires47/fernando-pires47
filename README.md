@@ -2,10 +2,11 @@
 
 <h3 align="center">Software Engineer | Java | Node.js | Angular | React | DevOps | Kafka | RabbitMQ | IaC | Linux</h3>
 
-
 I've been working as a software developer for over 6 years. During this time, I've mainly used the React and Angular programming languages for the frontend, as well as Java and Node.js for the backend. 
 
+<p align="left">
 If you need my help, just get in touch: 
+</p>
 E-mail: fernandopires_longo@hotmail.com
 
 <h3 align="left">Connect with me:</h3>
