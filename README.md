@@ -20,5 +20,3 @@ If you need my help, just get in touch via e-mail: fernandopires_longo@hotmail.c
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fernando-pires47&show_icons=true&locale=en&layout=compact" alt="fernando-pires47" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fernando-pires47&show_icons=true&locale=en" alt="fernando-pires47" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fernando-pires47&" alt="fernando-pires47" /></p>
